@@ -14,6 +14,10 @@ title: dantrim's cv
 | <a href="mailto:daniel.joseph.antrim@cern.ch">daniel.joseph.antrim@cern.ch</a>
 </div>
 
+<div id="webaddress">
+<a href="https://dantrim.github.io/" target="_blank">dantrim.github.io</a>
+</div>
+
 <!--<div id="webaddress">
 <a href="https://dantrim.github.io">dantrim.github.io</a>
 |
@@ -31,9 +35,8 @@ Here I work as an experimental high energy particle physicist as a member of the
 ATLAS Collaboration whose experiment --- the [ATLAS Experiment](https://atlas.cern/) --- is
 based at the international laboratory [CERN](https://home.cern/), straddling the
 French-Swiss border just outside of Geneva, Switzerland.
-At LBL I am focused on analyzing the proton-proton collision data delivered by
-the Large Hadron Collider (LHC) and recorded by the ATLAS Detector and searching
-for evidence of new physics.
+I focus on the pursuit for evidence of new physics by analyzing the proton-proton collision data delivered by
+the Large Hadron Collider (LHC) and recorded by the ATLAS Detector.
 I am also involved in the upgrade of the ATLAS Detector's silicon pixel tracking sub-system,
 which aims to be installed in the ATLAS Detector in time for the start of the High-Luminosity LHC.
 I am generally interested in detector instrumentation & data-acquisition systems,
@@ -45,24 +48,24 @@ machine learning in physics.
 
 ## Employment
 
-`2020-` 
+`2020-now` 
 __Lawrence Berkeley National Lab__ Chamberlain Postdoctoral Research Fellow,
-working in the ATLAS group in the lab's Physics Division.
+member of the ATLAS group within the lab's [Physics Division](https://www.physics.lbl.gov/).
 
 `2014-2019`
-__University of California, Irvine --- Department of Physics and Astronomy__ Graduate Student Researcher
+__University of California, Irvine --- Department of Physics and Astronomy__ Graduate Student Researcher.
 
 `2013-2014`
-__University of California, Irvine --- Department of Physics and Astronomy__ Teaching Assistant
+__University of California, Irvine --- Department of Physics and Astronomy__ Teaching Assistant.
 
 `2011-2013`
-__University of California, Los Angeles --- Department of Physics and Astronomy__ Assistant to Professor Robert J. Finkelstein
+__University of California, Los Angeles --- Department of Physics and Astronomy__ Assistant to Professor Robert J. Finkelstein.
 
 `2011-2012`
-__Rosenfeld Managment Library__ Junior manager of library resources
+__Rosenfeld Managment Library__ Junior manager of library resources.
 
 `2010-2011`
-__Institute of Geophysics and Planetary Physics (IGPP)__ Undergraduate researcher
+__Institute of Geophysics and Planetary Physics (IGPP)__ Undergraduate researcher.
 
 ## Education
 
@@ -77,7 +80,7 @@ __University of California, Los Angeles__ B.Sc. in Physics (Minor in Mathematics
 emphasis in mathematical physics. Distinctions: _Departmental Honors_ and _Latin Honors (Cum laude)_.
 
 `2004-2008`
-__Woodbridge High School, Irvine, CA__ High School Diploma
+__Woodbridge High School, Irvine, CA__ High School Diploma.
 
 <!--
 `2012-15`
@@ -89,6 +92,95 @@ __Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (
 `2008-11`
 __University of York__ BSc Biology (_First class honours_)
 -->
+
+## Significant Research Experience
+`2014-now`
+__As a member of the ATLAS Collaboration__
+
+Note: Labels in <strong><em>bold italics</em></strong> denote official ATLAS designations and/or roles.
+
+<p style="margin-left:1%; margin-right:1%">
+ATLAS Physics Analysis Roles
+
+    <p style="margin-left:3%;">
+    <strong><em>Analysis Contact & Paper Editor</em></strong>
+    Started and led the full Run-2 ATLAS search for evidence of double Higgs boson production
+    in the final state where one Higgs boson decays via the dileptonic decay of WW*,
+    ZZ*, or &tau;&tau; channels and the other decays via the b<span style="text-decoration:overline">b</span>
+    channel.
+    </p>
+
+    <p style="margin-left:3%;">
+    <strong><em>Analysis Contact</em></strong>
+    Led Run-2 ATLAS searches for evidence of the supersymmetric partner to the Standard Model top
+    quark in dilepton final states.
+    </p>
+
+    <p style="margin-left:3%;">
+    Led ATLAS search for evidence of supersymmetric partners to Standard Model Electroweak
+    gauge bosons and leptons in dilepton final states for the ATLAS LHC Run-1 Supersymmetry
+    Summary Analysis.
+    </p>
+</p>
+<p style="margin-left:1%; margin-right:1%">
+Technical Roles within the ATLAS Collaboration
+
+    <p style="margin-left:3%;">
+    Trigger and data-acquisition software expert responsible for the commissioning and
+    integration of the software-based readout driver ("software-ROD") for the Phase-1
+    New Small Wheel upgrade for the ATLAS muon spectrometer.
+    </p>
+
+    <p style="margin-left:3%;">
+    Developer of the VERSO data-acquisition and electronics configuration & calibration
+    software used for characterising the front-end electronics for the Phase-1 New Small Wheel
+    Upgrade project and used in MicroMegas detector test-beam, cosmic-stand, test-bench,
+    and chamber integration data-taking scenarios.
+    </p>
+</p>
+
+## Publications
+356 published papers as part of the ATLAS Collaboration (5400+ citations [<a href="https://inspirehep.net/authors/1384393" target="_blank">Inspire</a>])
+
+Note: Items that are marked with a star (&#11089;) denote publications in which I held
+a leading analyzer, analysis contact, and/or paper-editor role.
+
+<strong>Peer-reviewed Publications from the ATLAS Collaboration</strong>
+
+<p style="margin-left:1%;">
+    (&#11089;) <em>Search for the non-resonant Higgs boson production in the bbl&nu;l&nu; final state with the ATLAS detector in 
+<em>pp</em> collisions at 13 TeV</em>,
+    <a href="https://www.sciencedirect.com/science/article/pii/S0370269319308676?via%3Dihub" target="_blank">Phys. Lett. B 801 (2020) 135145</a>
+</p>
+
+<p style="margin-left:1%;">
+    <em>Search for the electroweak production of supersymmetric particles in final states with two or three leptons
+    at 13 TeV with the ATLAS detector</em>
+</p>
+
+<p style="margin-left:1%;">
+    (&#11089;) <em>Search for direction top squark pair production in final states with two leptons in 13 TeV
+    <em>pp</em> collisions with the ATLAS detector</em>
+</p>
+
+<p style="margin-left:1%;">
+    (&#11089;) <em>Search for the electroweak production of supersymmetric particles in 8 TeV <em>pp</em> collisions
+    with the ATLAS detector</em>
+</p>
+
+<strong>Public Documents from the ATLAS Collaboration</strong>
+
+<p style="margin-left:1%;">
+    (&#11089;) <em>Search for direct top squark pair production in final states with two leptons in 13 TeV
+    <em>pp</em> collsisions with the ATLAS detector</em>
+</p>
+
+<strong>Peer-Reviewed Publications</strong>
+
+<p style="margin-left:1%;">
+    (&#11089;) <em>System on a board readout for the VMM ASIC</em>
+</p>
+
 
 
 ## Presentations
@@ -130,7 +222,6 @@ _EpiGeneSys_ (Cambridge, UK)
 
 -->
 
-## Publications
 
 <!--
 
