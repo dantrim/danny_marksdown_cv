@@ -27,7 +27,7 @@ title: dantrim's cv
 ## Currently
 
 I am one of four 2020 Chamberlain Postdoctoral Research Fellows at [Lawrence Berkeley National Lab](https://www.lbl.gov/) (LBL).
-Here I work as an experimental high energy physicist as a member of the
+Here I work as an experimental high energy particle physicist as a member of the
 ATLAS Collaboration whose experiment --- the [ATLAS Experiment](https://atlas.cern/) --- is
 based at the international laboratory [CERN](https://home.cern/), straddling the
 French-Swiss border just outside of Geneva, Switzerland.
