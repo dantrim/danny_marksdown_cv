@@ -112,7 +112,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #fd9544;
+	color: #000000;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -126,7 +126,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	color: #1D49A0;
+	color: #000000;
 	font-style: italic;
 	font-size: 110%;
 	line-height: 2em;
@@ -175,6 +175,15 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
+}
+
+#workaddress {
+	margin-top: 0em;
+	position: relative;
+  margin-left: 25%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 em {
